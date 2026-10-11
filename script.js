@@ -2,8 +2,8 @@
   IMPORTANT: Replace SELLER_WHATSAPP and SELLER_PHONE below with your own details.
   WhatsApp format: country code + number, digits only (India example: 919876543210).
 */
-const SELLER_WHATSAPP = "+91 8918095525";
-const SELLER_PHONE = "+91 8918095525";
+const SELLER_WHATSAPP = "+91 8617042292";
+const SELLER_PHONE = "+91 8617042292";
 
 const products = [
   {
